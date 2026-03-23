@@ -1,6 +1,18 @@
-marketing-ai-app/
-├── package.json          ← fil 1
-├── public/
-│   └── index.html        ← fil 2
-└── src/
-    └── App.js            ← fil 3
+{
+  "name": "marketing-ai-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version"]
+  }
+}
