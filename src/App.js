@@ -227,10 +227,10 @@ export default function App() {
         <div style={{ maxWidth: 640, margin: "0 auto", padding: "32px 16px" }}>
           <div style={{ marginBottom: 28 }}>
             <h1 style={{ margin: 0, fontSize: 26, fontWeight: 900, color: colors.deepGreen, letterSpacing: "-0.5px" }}>
-              AI Marknadsföringsverktyg
+              Mysafetys Marketing Tool
             </h1>
             <p style={{ margin: "8px 0 0", fontSize: 15, color: colors.textLight, fontWeight: 400 }}>
-              Skapa annonstexter, e-postsekvenser och kundpersonas – alltid i linje med Mysafetys röst och varumärke.
+              Skapa annonstexter, e-postsekvenser och kundpersonas – alltid i linje med Mysafetys brand och tone of voice.
             </p>
           </div>
 
