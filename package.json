@@ -1,0 +1,6 @@
+marketing-ai-app/
+├── package.json          ← fil 1
+├── public/
+│   └── index.html        ← fil 2
+└── src/
+    └── App.js            ← fil 3
